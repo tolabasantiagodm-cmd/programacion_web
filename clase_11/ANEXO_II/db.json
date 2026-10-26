@@ -1,0 +1,25 @@
+{
+  "tareas": [
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "68mUa1Vp-L8"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "s2t_YRIM_5Y"
+    },
+    {
+      "texto": "Estudiar JavaScript",
+      "hecha": true,
+      "id": "nhovefJr_XI"
+    },
+    {
+      "id": "5r0WBi49wPY",
+      "texto": "Practicar métodos HTTP",
+      "hecha": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
